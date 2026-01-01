@@ -39,6 +39,12 @@ A Flutter-based AI text processing application that allows users to select text 
 3. Run `flutter pub get`
 4. Run `flutter run`
 
+
+
+https://github.com/user-attachments/assets/cb2f4290-b868-4e74-bf13-58b9183297f9
+
+
+
 ## Author
 
 [@riadrayhan](https://github.com/riadrayhan)

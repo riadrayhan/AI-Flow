@@ -42,7 +42,7 @@ A Flutter-based AI text processing application that allows users to select text 
 
 
 
-Uploading output.mp4…
+https://github.com/user-attachments/assets/88481bb5-267b-4230-8e0a-407c2c8716ab
 
 
 
